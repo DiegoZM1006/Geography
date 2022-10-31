@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e6adcf-3b10-4acd-8376-0055eae3aa95" name="Changes" comment="Project created">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_9_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_9_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Geography.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Geography.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/gson-2.9.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/City.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/Main.java" afterDir="false" />
-    </list>
-    <list id="c7bd3f36-a8ba-499c-b516-d86288c35c7b" name="Changes by Danie" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b4e6adcf-3b10-4acd-8376-0055eae3aa95" name="Changes" comment="Project created" />
+    <list id="c7bd3f36-a8ba-499c-b516-d86288c35c7b" name="Changes by Danie" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,31 +20,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/src/ui/Main.java">
-      <ranges>
-        <range start1="4" end1="7" start2="4" end2="5" changelist="b4e6adcf-3b10-4acd-8376-0055eae3aa95" />
-        <range start1="9" end1="9" start2="7" end2="10" changelist="b4e6adcf-3b10-4acd-8376-0055eae3aa95" />
-        <range start1="28" end1="29" start2="29" end2="29" changelist="c7bd3f36-a8ba-499c-b516-d86288c35c7b" />
-        <range start1="32" end1="33" start2="32" end2="33" changelist="c7bd3f36-a8ba-499c-b516-d86288c35c7b" />
-        <range start1="35" end1="36" start2="35" end2="35" changelist="c7bd3f36-a8ba-499c-b516-d86288c35c7b" />
-        <range start1="40" end1="41" start2="39" end2="40" changelist="c7bd3f36-a8ba-499c-b516-d86288c35c7b" />
-        <range start1="47" end1="48" start2="46" end2="47" changelist="c7bd3f36-a8ba-499c-b516-d86288c35c7b" />
-        <range start1="55" end1="56" start2="54" end2="56" changelist="c7bd3f36-a8ba-499c-b516-d86288c35c7b" />
-        <range start1="64" end1="65" start2="64" end2="65" changelist="c7bd3f36-a8ba-499c-b516-d86288c35c7b" />
-        <range start1="66" end1="66" start2="66" end2="1095" changelist="b4e6adcf-3b10-4acd-8376-0055eae3aa95" />
-        <range start1="67" end1="67" start2="1096" end2="1121" changelist="b4e6adcf-3b10-4acd-8376-0055eae3aa95" />
-        <range start1="71" end1="72" start2="1125" end2="1126" changelist="b4e6adcf-3b10-4acd-8376-0055eae3aa95" />
-        <range start1="87" end1="88" start2="1141" end2="1147" changelist="c7bd3f36-a8ba-499c-b516-d86288c35c7b" />
-        <range start1="98" end1="100" start2="1157" end2="1157" changelist="c7bd3f36-a8ba-499c-b516-d86288c35c7b" />
-        <range start1="101" end1="104" start2="1158" end2="1161" changelist="b4e6adcf-3b10-4acd-8376-0055eae3aa95" />
-        <range start1="105" end1="112" start2="1162" end2="1169" changelist="b4e6adcf-3b10-4acd-8376-0055eae3aa95" />
-        <range start1="113" end1="114" start2="1170" end2="1171" changelist="b4e6adcf-3b10-4acd-8376-0055eae3aa95" />
-        <range start1="115" end1="116" start2="1172" end2="1173" changelist="b4e6adcf-3b10-4acd-8376-0055eae3aa95" />
-        <range start1="117" end1="117" start2="1174" end2="1184" changelist="b4e6adcf-3b10-4acd-8376-0055eae3aa95" />
-      </ranges>
-    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -83,7 +45,8 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -107,7 +70,7 @@
       <workItem from="1666897715191" duration="6176000" />
       <workItem from="1667052895719" duration="16411000" />
       <workItem from="1667093359427" duration="11000" />
-      <workItem from="1667093490367" duration="27327000" />
+      <workItem from="1667093490367" duration="27645000" />
     </task>
     <task id="LOCAL-00001" summary="Project created">
       <created>1666642651047</created>
