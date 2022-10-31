@@ -45,4 +45,15 @@ public class City {
     public void setPopulation(double population) {
         this.population = population;
     }
+
+    @Override
+    public String toString() {
+        return "City{" +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                ", countryCode='" + countryCode + '\'' +
+                ", population=" + population +
+                '}';
+    }
+
 }

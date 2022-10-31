@@ -58,6 +58,26 @@ public class Country {
         this.cities = cities;
     }
 
+    @Override
+    public String toString() {
+        return "Country{" +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                ", population=" + population +
+                ", countryCode='" + countryCode + '\'' +
+                ", cities=" + cities.size() +
+                '}';
+    }
+
     // MORE METHODS ....
+
+    public void addCity(String id, String name, String countryId, double population) {
+        City c = new City(id, name, countryId, population);
+        cities.add(c);
+        System.out.println("CITIES OF " + this.getName());
+        for (City ci : cities) {
+            System.out.println(ci.getName());
+        }
+    }
 
 }
